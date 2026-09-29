@@ -1,4 +1,12 @@
 {
   "attachmentFolderPath": "Attachments",
-  "readableLineLength": false
+  "readableLineLength": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Entries",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

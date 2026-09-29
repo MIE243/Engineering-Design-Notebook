@@ -1,0 +1,9 @@
+{
+  "types": {
+    "date": "date",
+    "authors": "multitext",
+    "sprint": "number",
+    "commits": "multitext",
+    "tags": "tags"
+  }
+}
