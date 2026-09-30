@@ -4,7 +4,8 @@ authors:
   - Mo Zhou
 sprint:
 commits: []
-tags: []
+tags:
+  - "#Transfer_Case"
 ---
 ## Transfer Case Type
 Researched a NP231 style transfer case that features a planetary gearset driven by the input shaft from the transmission.
