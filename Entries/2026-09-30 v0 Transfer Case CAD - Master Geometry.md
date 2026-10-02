@@ -16,7 +16,7 @@ The position that the front axle sprocket should sit is already speced in [[2026
 
 ## Mode Sleeve
 ![[Pasted image 20260930215544.png]]
-The top rectangle (big one) is the sprocket that is linked to the front shaft. The first smaller triangle is the dog ring that always spins with the sprocket. The rectangle that is bigger and on top of it is the sleeve gear that slides. The big 2.5mm thick rectangle represents the hub (the spline always stays engaged to it) and the hub always is connected with the main shaft. 
+The top rectangle (big one) is the sprocket that is linked to the front shaft. The first smaller rectangle is the dog ring that always spins with the sprocket. The rectangle that is bigger and on top of it is the sleeve gear that slides. The big 2.5mm thick rectangle represents the hub (the spline always stays engaged to it) and the hub always is connected with the main shaft. 
 
 ## Center Differential with Lock
 ![[Pasted image 20260930222849.png]]
