@@ -41,3 +41,6 @@ Select with "Differential Lock Shifter"
 
 ## To Think About
 - The rear shaft thickness then also depends on the thickness of the shaft going into the rear differential, unless you manufacture them separately and figure out a way to lock the two together (which is very possible and helps with 3D printing manufacturability as well)
+## NOTE
+- ON 2026-10-03 changes were made to the motion links to avoid the assembly not spinning at all in a locking mode because SolidWorks cannot properly simulate the idea of differential gears not spinning while the carrier is rotating at the same time. 
+- REFER TO THE ENTRY [[2026-10-03 Transfer Case Shift Modes Table]] FOR UPDATED TABLE OF MATES TO ENABLE FOR EACH TRANSFER CASE MODE
