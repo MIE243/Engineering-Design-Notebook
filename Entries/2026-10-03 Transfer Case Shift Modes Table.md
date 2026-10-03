@@ -14,7 +14,7 @@ tags:
 - Added additional gear mate for locked differential so rear shaft spins with the input and main shaft
 - Added a 2H Open Suppress folder to suppress a set of mates needed to demonstrate 2H Open on SolidWorks Properly
 
-## Updated Table For Transfer Case Mates Suppression As Of:
+## Updated Table For Transfer Case Mates Suppression As Of: [v0-Initial-Chassis@91f221d](https://github.com/MIE243/v0-Initial-Chassis/commit/91f221da4196dbf32fdd99a2036b1aaea57ca8c3)
 - Note that "Center Differential Gear Mates" refers to the folder of mates with that name.
 - Diff Lock Rear Shaft Mate and the folder above cannot both be enabled at the same time, one must be suppressed.
 - Note that for 2H Open, you have to suppress a sub folder inside of Center Differential Gear Mates called "2H Open Suppress", this is a SolidWorks only thing because it cannot simulate properly the rear shaft not needing to spin in this case.
