@@ -3,7 +3,8 @@ date: 2026-10-02
 authors:
   - Mo Zhou
 sprint:
-commits: []
+commits:
+  - https://github.com/MIE243/v0-Initial-Chassis/commit/b319f99024f48f4e49ea9cb5e311c171d16a72b4
 tags:
   - v0-CAD
   - Transfer_Case
