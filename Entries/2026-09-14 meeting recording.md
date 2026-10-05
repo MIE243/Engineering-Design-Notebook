@@ -4,7 +4,7 @@ authors:
   - Shangkai Ji
 sprint:
 commits:
-  - https://github.com/MIE243/Meetings/commit/6fc28006b16b16abb9dbbf540118d5e50442fad2
+  - https://github.com/MIE243/Meetings/commit/cbb7e1931511c06cf06ed8fa0e14f5ddf2929a7d
 tags:
   - "#Meeting_Recording"
 ---
@@ -24,6 +24,8 @@ Recorded the team's meetings, tutorial discussions, decisions, task assignments,
 - September 28, 2026 — Tutorial Section
 - September 28, 2026 — 7:00 p.m.
 - September 30, 2026 — 8:00 p.m.
+- October 1, 2026 — 8:00 p.m.
+- October 5, 2026 — Tutorial Section
 
 ## Meeting Record
 
