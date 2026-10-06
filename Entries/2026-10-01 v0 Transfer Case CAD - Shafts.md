@@ -2,7 +2,7 @@
 date: 2026-10-01
 authors:
   - Mo Zhou
-sprint:
+sprint: 1
 commits:
   - https://github.com/MIE243/v0-Initial-Chassis/commit/09516a74ae3720e238f3728cb07621e9f2a0b221
 tags:

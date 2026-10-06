@@ -2,7 +2,7 @@
 date: 2026-10-04
 authors:
   - Peiwen Sun
-sprint:
+sprint: 1
 commits: []
 tags:
   - concept-design

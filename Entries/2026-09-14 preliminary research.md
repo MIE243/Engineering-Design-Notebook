@@ -4,7 +4,7 @@ authors:
   - Shangkai Ji
   - Hongru Liu
   - Mo Zhou
-sprint:
+sprint: 1
 commits:
   - https://github.com/MIE243/Preliminary-Research/commit/c137e99cbcc566d9bc326fc245ac15b8feb72689
 tags:

@@ -2,7 +2,7 @@
 date: 2026-10-05
 authors:
   - Hongru Liu
-sprint:
+sprint: 1
 commits: []
 tags:
   - concept-design
