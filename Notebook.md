@@ -7,7 +7,7 @@
 | Shangkai Ji | Product Owner, Meeting Recorder, Developer |
 | Mo Zhou     | CAD Design Owner, Developer            |
 | Hongru Liu  | Scrum Master, Developer                |
-| Peiwen Sun  | Developer                              |
+| Peiwen Sun | Concept Development Owner, Developer |
 
 ## All entries
 
